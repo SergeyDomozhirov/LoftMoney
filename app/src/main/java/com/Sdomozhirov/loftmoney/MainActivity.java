@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        findViewById(R.id.btnClick)
+        findViewById(R.id.)
     }
 }
+
+// TODO; - Here we will work with recyclerview
