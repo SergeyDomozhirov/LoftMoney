@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoftMoney</string>
+    <string name="btn_name">Click me</string>
 </resources>
